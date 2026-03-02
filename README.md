@@ -49,3 +49,23 @@ passwd username
 reboot
 
 
+## 🔎 What I Learned
+- How the Linux boot process works  
+- How recovery mode provides root-level access  
+- How password resets are performed at system level  
+- Why physical access can compromise system security  
+
+## 🔐 Security Risk
+If GRUB is not protected, an attacker with physical access can reset passwords and gain full control of the system.
+
+## 🛡 How to Prevent This
+- Configure a GRUB password  
+- Enable full disk encryption (LUKS)  
+- Lock BIOS/UEFI settings  
+- Restrict physical access  
+
+## 🎯 Skills Demonstrated
+- Linux system administration  
+- Root privilege handling  
+- Security risk analysis  
+- Basic system hardening awareness  
