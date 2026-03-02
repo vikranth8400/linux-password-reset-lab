@@ -47,7 +47,7 @@ mount -o remount,rw /
 ls /home
 passwd username
 reboot
-
+```
 
 ## 🔎 What I Learned
 - How the Linux boot process works  
