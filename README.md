@@ -23,7 +23,7 @@ It demonstrates why physical security is important.
 ## 🖼 Screenshots
 
 ### 1️⃣ GRUB Recovery Menu
-![GRUB Recovery](1-grub-recovery-menu.png)
+![GRUB Recovery](1.grub-recovery-menu.png)
 
 ### 2️⃣ Root Shell Option
 ![Root Shell Option](2-root-shell-options.png)
